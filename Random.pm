@@ -387,15 +387,7 @@ For the tests are also needed many more modules:
   File::Temp
   Test::Warn
   Test::ManyParams
-  
-Test::Class itselfs needs the following additional modules:
-  Attribute::Handlers             
-  Class::ISA                      
-  IO::File                        
-  Storable
-  Test::Builder
-  Test::Builder::Tester
-  Test::Differences    
+
 
 All these modules are needed only for the tests.
 You can work with the module even without them. 
